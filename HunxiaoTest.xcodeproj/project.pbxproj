@@ -9,9 +9,7 @@
 /* Begin PBXBuildFile section */
 		9C6457742266B823004EDEF8 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C6457732266B823004EDEF8 /* AppDelegate.m */; };
 		9C6457772266B823004EDEF8 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C6457762266B823004EDEF8 /* ViewController.m */; };
-		9C64577A2266B823004EDEF8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C6457782266B823004EDEF8 /* Main.storyboard */; };
 		9C64577C2266B824004EDEF8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9C64577B2266B824004EDEF8 /* Assets.xcassets */; };
-		9C64577F2266B824004EDEF8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C64577D2266B824004EDEF8 /* LaunchScreen.storyboard */; };
 		9C6457822266B824004EDEF8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C6457812266B824004EDEF8 /* main.m */; };
 		9C64578C2266B824004EDEF8 /* HunxiaoTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C64578B2266B824004EDEF8 /* HunxiaoTestTests.m */; };
 		9C6457972266B824004EDEF8 /* HunxiaoTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C6457962266B824004EDEF8 /* HunxiaoTestUITests.m */; };
@@ -40,9 +38,7 @@
 		9C6457732266B823004EDEF8 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		9C6457752266B823004EDEF8 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		9C6457762266B823004EDEF8 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		9C6457792266B823004EDEF8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9C64577B2266B824004EDEF8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		9C64577E2266B824004EDEF8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9C6457802266B824004EDEF8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9C6457812266B824004EDEF8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		9C6457872266B824004EDEF8 /* HunxiaoTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HunxiaoTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -51,7 +47,7 @@
 		9C6457922266B824004EDEF8 /* HunxiaoTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HunxiaoTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C6457962266B824004EDEF8 /* HunxiaoTestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HunxiaoTestUITests.m; sourceTree = "<group>"; };
 		9C6457982266B824004EDEF8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9CE20ED72266C60300764C71 /* HunxiaoTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HunxiaoTest-Prefix.pch"; sourceTree = SOURCE_ROOT; };
+		9CE20ED92266C93300764C71 /* HunxiaoTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HunxiaoTest-Prefix.pch"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,12 +102,10 @@
 				9C6457732266B823004EDEF8 /* AppDelegate.m */,
 				9C6457752266B823004EDEF8 /* ViewController.h */,
 				9C6457762266B823004EDEF8 /* ViewController.m */,
-				9C6457782266B823004EDEF8 /* Main.storyboard */,
 				9C64577B2266B824004EDEF8 /* Assets.xcassets */,
-				9C64577D2266B824004EDEF8 /* LaunchScreen.storyboard */,
 				9C6457802266B824004EDEF8 /* Info.plist */,
 				9C6457812266B824004EDEF8 /* main.m */,
-				9CE20ED72266C60300764C71 /* HunxiaoTest-Prefix.pch */,
+				9CE20ED92266C93300764C71 /* HunxiaoTest-Prefix.pch */,
 			);
 			path = HunxiaoTest;
 			sourceTree = "<group>";
@@ -237,9 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9C64577F2266B824004EDEF8 /* LaunchScreen.storyboard in Resources */,
 				9C64577C2266B824004EDEF8 /* Assets.xcassets in Resources */,
-				9C64577A2266B823004EDEF8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -300,25 +292,6 @@
 			targetProxy = 9C6457932266B824004EDEF8 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
-
-/* Begin PBXVariantGroup section */
-		9C6457782266B823004EDEF8 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				9C6457792266B823004EDEF8 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		9C64577D2266B824004EDEF8 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				9C64577E2266B824004EDEF8 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		9C6457992266B824004EDEF8 /* Debug */ = {

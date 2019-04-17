@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>4D07A952-4784-4526-A688-739E96645F4C</key>
+		<key>EE6BA85E-7ACD-45CA-9F05-A36A1F582F86</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>4D07A952-4784-4526-A688-739E96645F4C.xcactivitylog</string>
+			<string>EE6BA85E-7ACD-45CA-9F05-A36A1F582F86.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -30,13 +30,13 @@
 			<key>signature</key>
 			<string>Cleaning project HunxiaoTest with scheme HunxiaoTest and configuration Release</string>
 			<key>timeStartedRecording</key>
-			<real>577160443.57917202</real>
+			<real>577161395.74793506</real>
 			<key>timeStoppedRecording</key>
-			<real>577160443.65239298</real>
+			<real>577161395.81422198</real>
 			<key>title</key>
 			<string>Cleaning project HunxiaoTest with scheme HunxiaoTest and configuration Release</string>
 			<key>uniqueIdentifier</key>
-			<string>4D07A952-4784-4526-A688-739E96645F4C</string>
+			<string>EE6BA85E-7ACD-45CA-9F05-A36A1F582F86</string>
 		</dict>
 	</dict>
 </dict>
