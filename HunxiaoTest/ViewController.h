@@ -10,6 +10,7 @@
 
 @interface ViewController : UIViewController
 
+- (void)testHunxiao:(int)a value2:(int)b;
 
 @end
 

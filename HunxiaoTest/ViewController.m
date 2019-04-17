@@ -16,8 +16,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
+    [self testHunxiao:1 value2:2];
 }
 
+- (void)testHunxiao:(int)a value2:(int)b {
+    NSLog(@"sdsd");
+}
 
 @end
