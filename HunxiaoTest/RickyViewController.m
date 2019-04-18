@@ -19,11 +19,11 @@
     // Do any additional setup after loading the view.
 }
 
-- (void)test1:(int)a value:(int)b{}
-- (void)test2:(int)a value:(int)b{}
-- (void)test3:(int)a value:(int)b{}
-- (void)test4:(int)a value:(int)b{}
-- (void)test5:(int)a value:(int)b{}
+- (void)test1:(NSInteger)a value:(NSInteger)b{}
+- (void)test2:(NSInteger)a value:(NSInteger)b{}
+- (void)test3:(NSInteger)a value:(NSInteger)b{}
+- (void)test4:(NSInteger)a value:(NSInteger)b{}
+- (void)test5:(NSInteger)a value:(NSInteger)b{}
 
 /*
 #pragma mark - Navigation
