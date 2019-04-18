@@ -13,6 +13,7 @@
 		9C6457822266B824004EDEF8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C6457812266B824004EDEF8 /* main.m */; };
 		9C64578C2266B824004EDEF8 /* HunxiaoTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C64578B2266B824004EDEF8 /* HunxiaoTestTests.m */; };
 		9C6457972266B824004EDEF8 /* HunxiaoTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C6457962266B824004EDEF8 /* HunxiaoTestUITests.m */; };
+		9CE52399226813640069844C /* RickyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CE52398226813640069844C /* RickyViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,8 @@
 		9C6457962266B824004EDEF8 /* HunxiaoTestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HunxiaoTestUITests.m; sourceTree = "<group>"; };
 		9C6457982266B824004EDEF8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9CE20ED92266C93300764C71 /* HunxiaoTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HunxiaoTest-Prefix.pch"; sourceTree = SOURCE_ROOT; };
+		9CE52397226813640069844C /* RickyViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RickyViewController.h; sourceTree = "<group>"; };
+		9CE52398226813640069844C /* RickyViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RickyViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +105,8 @@
 				9C6457732266B823004EDEF8 /* AppDelegate.m */,
 				9C6457752266B823004EDEF8 /* ViewController.h */,
 				9C6457762266B823004EDEF8 /* ViewController.m */,
+				9CE52397226813640069844C /* RickyViewController.h */,
+				9CE52398226813640069844C /* RickyViewController.m */,
 				9C64577B2266B824004EDEF8 /* Assets.xcassets */,
 				9C6457802266B824004EDEF8 /* Info.plist */,
 				9C6457812266B824004EDEF8 /* main.m */,
@@ -257,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9C6457772266B823004EDEF8 /* ViewController.m in Sources */,
+				9CE52399226813640069844C /* RickyViewController.m in Sources */,
 				9C6457822266B824004EDEF8 /* main.m in Sources */,
 				9C6457742266B823004EDEF8 /* AppDelegate.m in Sources */,
 			);

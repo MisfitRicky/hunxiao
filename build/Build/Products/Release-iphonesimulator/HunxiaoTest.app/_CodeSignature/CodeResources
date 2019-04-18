@@ -4,33 +4,9 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
-		<data>
-		NqmTtd0rbIE7hAuJnCoHmTLWgck=
-		</data>
-		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
-		<data>
-		n2t8gsDpfE6XkhG31p7IQJRxTxU=
-		</data>
-		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
-		<data>
-		/Edr8tKL8Dq0liGJDbCHxRKLLMU=
-		</data>
-		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
-		<data>
-		WwF2FmD/up59BUsvmCT5SruFSg0=
-		</data>
-		<key>Base.lproj/Main.storyboardc/Info.plist</key>
-		<data>
-		MDrKFvFWroTb0+KEbQShBcoBvo4=
-		</data>
-		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
-		<data>
-		KVwZ9ccCr+Md3TBA77Ddk+eR4vU=
-		</data>
 		<key>Info.plist</key>
 		<data>
-		szu7rXRH9aoIzDj08Dlh1pnx+k8=
+		8rGO7ZvpSKX9IoFL6sZwc8eQvfw=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -38,50 +14,7 @@
 		</data>
 	</dict>
 	<key>files2</key>
-	<dict>
-		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			SejaLxcJ+snfFbxb4osTV0RNObsheFhiuFNqrthF4S0=
-			</data>
-		</dict>
-		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HyVdXMU7Ux4/KalAao30mpWOK/lEPT4gvYN09wf31cg=
-			</data>
-		</dict>
-		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			okIeVyq3Db6G6JZOt3mIPeLlVzHF0zlH0fzZmVdfg8U=
-			</data>
-		</dict>
-		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			UnX368TETjwt7Qi02U8LMqQkL6UFeooxw4y5VVVv2EA=
-			</data>
-		</dict>
-		<key>Base.lproj/Main.storyboardc/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			PpvapAjR62rl6Ym4E6hkTgpKmBICxTaQXeUqcpHmmqQ=
-			</data>
-		</dict>
-		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			xxVusg6QqKnIxfpWMIzoKi0VqduPXpzq/XMMavdZxbI=
-			</data>
-		</dict>
-	</dict>
+	<dict/>
 	<key>rules</key>
 	<dict>
 		<key>^.*</key>
